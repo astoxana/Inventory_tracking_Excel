@@ -1,2 +1,2 @@
 # Inventory_tracking_Excel
-Tracking inventory be bulk and serial numbers in MS Excel
+Tracking inventory by serial numbers in MS Excel
